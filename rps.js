@@ -9,6 +9,9 @@ function getComputerChoice(){
         case 2 :
             computer = "PAPER";
             break;
+        case 3 :
+            computer = "SCISSORS";
+            break; 
     }
 
 }
