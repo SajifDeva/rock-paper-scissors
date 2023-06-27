@@ -1,3 +1,8 @@
+const playerText = document.querySelector("playerText");
+const computerText = document.querySelector("computerText")
+
+
+
 function getComputerChoice(){
 
     const randNum = Math.floor(Math.random() * 3) + 1;
