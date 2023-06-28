@@ -47,3 +47,4 @@ function checkWinner(){
 }
 
 //LEARN why this code is not working 
+//go through each line of code and understand exactly how they work and are supposed to work andthen figure out the reason 
